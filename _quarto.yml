@@ -8,13 +8,13 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: 2023 Ruty Korotaev CV.pdf
+      - href: 2023_Ruty_Korotaev_CV.pdf
         text: CV
 
 
 format:
   html:
-    theme: litera
+    theme: journal
     css: styles.css
     toc: true
 
