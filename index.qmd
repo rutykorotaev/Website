@@ -1,0 +1,10 @@
+---
+title: "Ruty Korotaev"
+---
+
+Welcome to my website! I am a Ph.D. student at the University of Toronto's Faculty of Information. My research focuses on analyzing Kremlin engagement with Russian diasporas, including through state-funded media, non-state actors, and various forms of information warfare. 
+
+
+```{r}
+1 + 1
+```

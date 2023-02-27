@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Ruty Korotaev"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: 2023 Ruty Korotaev CV.pdf
+        text: CV
+
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+
+
+
