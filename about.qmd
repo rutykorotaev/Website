@@ -1,5 +1,11 @@
 ---
 title: "Portfolio"
+listing: grid
+  contents: posts
+  sort: 
+  -"date"
+  - "title desc" 
+  
 ---
 
 
