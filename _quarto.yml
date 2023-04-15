@@ -11,7 +11,6 @@ website:
       - href: 2023_Ruty_Korotaev_CV.pdf
         text: CV
 
-
 format:
   html:
     theme: journal
