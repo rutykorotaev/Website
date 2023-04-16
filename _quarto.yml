@@ -7,7 +7,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - href: 2023_Ruty_Korotaev_CV.pdf
         text: CV
 
